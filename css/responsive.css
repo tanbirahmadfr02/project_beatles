@@ -1,0 +1,568 @@
+
+@media (min-width: 1400px) {
+    /* ========top part start ========== */
+
+    /* ========top part end ========== */
+    /* ==========menu part start ========== */
+    #main_menu .toggoler_icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #main_menu .toggoler_icon i{
+        font-size: 20px;
+        color: #5bc5f4;
+    }
+    #main_menu.sticky .toggoler_icon i{
+        color: white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    /* ==========menu part end ========== */
+    /* ==========banner part start ========= */
+    #banner_part .overlay h2 {
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+    #banner_part .overlay h1 {
+        font-size: 30px;
+        margin-bottom: 17px;
+    }
+    #banner_part .overlay {
+        padding-top: 134px;
+        padding-bottom: 65px;
+    }
+    #banner_part .overlay a {
+        padding: 6px 12px;
+    }
+    /* ==========banner part end ========= */
+    /* =========about part start ====== */
+    #about_part {
+        padding: 34px 0;
+    }
+    #about_part p {
+        text-align: center;
+    }
+    #about_part h6 {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    #about_part .shape {
+        height: 264px;
+        width: 336px;
+    }
+    #about_part .left_img {
+        height: 264px;
+        width: 315px;
+    }
+    /* =========about part end ====== */
+    /* ==========service part start ========= */
+    #service_part .prevarrow {
+        left: 45%;
+    }
+    #service_part .nextarrow {
+        right: 45%;
+    }
+    /* =========portfolio part start ======== */
+    #portfolio_part {
+        margin: 47px 0;
+    }
+    /* =========portfolio part end ======== */
+    /* ==========service part end ========= */
+    /* ========team part start ======= */
+    #team_part {
+        margin-bottom: 44px;
+    }
+    /* ========team part end ======= */
+    /* =======testimonial part start ======== */
+    #testimonial_part .prevarrow {
+        left: 45%;
+    }
+    #testimonial_part .nextarrow {
+        right: 45%;
+    }
+    /* =======testimonial part end ======== */
+    /* =========footer part start ======== */
+    .footer_cmn_heading {
+        margin-bottom: 14px;
+        margin-top: 36px;
+    }
+    /* =========footer part end ======== */
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* ========top part start ========== */
+
+    /* ========top part end ========== */
+    /* ==========menu part start ========== */
+    #main_menu .toggoler_icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #main_menu .toggoler_icon i{
+        font-size: 20px;
+        color: #5bc5f4;
+    }
+    #main_menu.sticky .toggoler_icon i{
+        color: white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    /* ==========menu part end ========== */
+    /* ==========banner part start ========= */
+    #banner_part .overlay h2 {
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+    #banner_part .overlay h1 {
+        font-size: 30px;
+        margin-bottom: 17px;
+    }
+    #banner_part .overlay {
+        padding-top: 134px;
+        padding-bottom: 65px;
+    }
+    #banner_part .overlay a {
+        padding: 6px 12px;
+    }
+    /* ==========banner part end ========= */
+    /* =========about part start ====== */
+    #about_part {
+        padding: 34px 0;
+    }
+    #about_part p {
+        text-align: center;
+    }
+    #about_part h6 {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    #about_part .shape {
+        height: 264px;
+        width: 336px;
+    }
+    #about_part .left_img {
+        height: 264px;
+        width: 315px;
+    }
+    /* =========about part end ====== */
+    /* ==========service part start ========= */
+    #service_part .prevarrow {
+        left: 45%;
+    }
+    #service_part .nextarrow {
+        right: 45%;
+    }
+    /* =========portfolio part start ======== */
+    #portfolio_part {
+        margin: 47px 0;
+    }
+    /* =========portfolio part end ======== */
+    /* ==========service part end ========= */
+    /* ========team part start ======= */
+    #team_part {
+        margin-bottom: 44px;
+    }
+    /* ========team part end ======= */
+    /* =======testimonial part start ======== */
+    #testimonial_part .prevarrow {
+        left: 45%;
+    }
+    #testimonial_part .nextarrow {
+        right: 45%;
+    }
+    /* =======testimonial part end ======== */
+    /* =========footer part start ======== */
+    .footer_cmn_heading {
+        margin-bottom: 14px;
+        margin-top: 36px;
+    }
+    /* =========footer part end ======== */
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* ========top part start ========== */
+
+    /* ========top part end ========== */
+    /* ==========menu part start ========== */
+    #main_menu .toggoler_icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #main_menu .toggoler_icon i{
+        font-size: 20px;
+        color: #5bc5f4;
+    }
+    #main_menu.sticky .toggoler_icon i{
+        color: white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    /* ==========menu part end ========== */
+    /* ==========banner part start ========= */
+    #banner_part .overlay h2 {
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+    #banner_part .overlay h1 {
+        font-size: 30px;
+        margin-bottom: 17px;
+    }
+    #banner_part .overlay {
+        padding-top: 134px;
+        padding-bottom: 65px;
+    }
+    #banner_part .overlay a {
+        padding: 6px 12px;
+    }
+    /* ==========banner part end ========= */
+    /* =========about part start ====== */
+    #about_part {
+        padding: 34px 0;
+    }
+    #about_part p {
+        text-align: center;
+    }
+    #about_part h6 {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    #about_part .shape {
+        height: 264px;
+        width: 336px;
+    }
+    #about_part .left_img {
+        height: 264px;
+        width: 315px;
+    }
+    /* =========about part end ====== */
+    /* ==========service part start ========= */
+    #service_part .prevarrow {
+        left: 45%;
+    }
+    #service_part .nextarrow {
+        right: 45%;
+    }
+    /* =========portfolio part start ======== */
+    #portfolio_part {
+        margin: 47px 0;
+    }
+    /* =========portfolio part end ======== */
+    /* ==========service part end ========= */
+    /* ========team part start ======= */
+    #team_part {
+        margin-bottom: 44px;
+    }
+    /* ========team part end ======= */
+    /* =======testimonial part start ======== */
+    #testimonial_part .prevarrow {
+        left: 45%;
+    }
+    #testimonial_part .nextarrow {
+        right: 45%;
+    }
+    /* =======testimonial part end ======== */
+    /* =========footer part start ======== */
+    .footer_cmn_heading {
+        margin-bottom: 14px;
+        margin-top: 36px;
+    }
+    /* =========footer part end ======== */
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* ========top part start ========== */
+
+    /* ========top part end ========== */
+    /* ==========menu part start ========== */
+    #main_menu .toggoler_icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #main_menu .toggoler_icon i{
+        font-size: 20px;
+        color: #5bc5f4;
+    }
+    #main_menu.sticky .toggoler_icon i{
+        color: white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    /* ==========menu part end ========== */
+    /* ==========banner part start ========= */
+    #banner_part .overlay h2 {
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+    #banner_part .overlay h1 {
+        font-size: 30px;
+        margin-bottom: 17px;
+    }
+    #banner_part .overlay {
+        padding-top: 134px;
+        padding-bottom: 65px;
+    }
+    #banner_part .overlay a {
+        padding: 6px 12px;
+    }
+    /* ==========banner part end ========= */
+    /* =========about part start ====== */
+    #about_part {
+        padding: 34px 0;
+    }
+    #about_part p {
+        text-align: center;
+    }
+    #about_part h6 {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    #about_part .shape {
+        height: 264px;
+        width: 336px;
+    }
+    #about_part .left_img {
+        height: 264px;
+        width: 315px;
+    }
+    /* =========about part end ====== */
+    /* ==========service part start ========= */
+    #service_part .prevarrow {
+        left: 35%;
+    }
+    #service_part .nextarrow {
+        right: 35%;
+    }
+    /* =========portfolio part start ======== */
+    #portfolio_part {
+        margin: 47px 0;
+    }
+    /* =========portfolio part end ======== */
+    /* ==========service part end ========= */
+    /* ========team part start ======= */
+    #team_part {
+        margin-bottom: 44px;
+    }
+    /* ========team part end ======= */
+    /* =======testimonial part start ======== */
+    #testimonial_part .prevarrow {
+        left: 35%;
+    }
+    #testimonial_part .nextarrow {
+        right: 35%;
+    }
+    /* =======testimonial part end ======== */
+    /* =========footer part start ======== */
+    .footer_cmn_heading {
+        margin-bottom: 14px;
+        margin-top: 36px;
+        text-align: center;
+    }
+    /* =========footer part end ======== */
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* ========top part start ========== */
+
+    /* ========top part end ========== */
+    /* ==========menu part start ========== */
+    #main_menu .toggoler_icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #main_menu .toggoler_icon i{
+        font-size: 20px;
+        color: #5bc5f4;
+    }
+    #main_menu.sticky .toggoler_icon i{
+        color: white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    /* ==========menu part end ========== */
+    /* ==========banner part start ========= */
+    #banner_part .overlay h2 {
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+    #banner_part .overlay h1 {
+        font-size: 30px;
+        margin-bottom: 17px;
+    }
+    #banner_part .overlay {
+        padding-top: 134px;
+        padding-bottom: 65px;
+    }
+    #banner_part .overlay a {
+        padding: 6px 12px;
+    }
+    /* ==========banner part end ========= */
+    /* =========about part start ====== */
+    #about_part {
+        padding: 34px 0;
+    }
+    #about_part p {
+        text-align: center;
+    }
+    #about_part h6 {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    #about_part .shape {
+        height: 264px;
+        width: 380px;
+    }
+    #about_part .left_img {
+        height: 264px;
+        width: 360px;
+    }
+    /* =========about part end ====== */
+    /* ==========service part start ========= */
+    #service_part .prevarrow {
+        left: 35%;
+    }
+    #service_part .nextarrow {
+        right: 35%;
+    }
+    /* =========portfolio part start ======== */
+    #portfolio_part {
+        margin: 47px 0;
+    }
+    /* =========portfolio part end ======== */
+    /* ==========service part end ========= */
+    /* ========team part start ======= */
+    #team_part .overlay {
+        opacity: 1;
+        visibility: visible;
+    }
+    #team_part {
+        margin-bottom: 44px;
+    }
+    /* ========team part end ======= */
+    /* =======testimonial part start ======== */
+    #testimonial_part .prevarrow {
+        left: 35%;
+    }
+    #testimonial_part .nextarrow {
+        right: 35%;
+    }
+    /* =======testimonial part end ======== */
+    /* =========footer part start ======== */
+    .footer_cmn_heading {
+        margin-bottom: 14px;
+        margin-top: 36px;
+        text-align: center;
+    }
+    #footer_part .item_4 .img .overlay {
+        transform: scale(1);
+    }
+    /* =========footer part end ======== */
+}
+@media (max-width: 575.98px) {
+    /* ========top part start ========== */
+
+    /* ========top part end ========== */
+    /* ==========menu part start ========== */
+    #main_menu .toggoler_icon{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #main_menu .toggoler_icon i{
+        font-size: 20px;
+        color: #5bc5f4;
+    }
+    #main_menu.sticky .toggoler_icon i{
+        color: white;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    /* ==========menu part end ========== */
+    /* ==========banner part start ========= */
+    #banner_part .overlay h2 {
+        font-size: 23px;
+        margin-bottom: 5px;
+    }
+    #banner_part .overlay h1 {
+        font-size: 30px;
+        margin-bottom: 17px;
+    }
+    #banner_part .overlay {
+        padding-top: 134px;
+        padding-bottom: 65px;
+    }
+    #banner_part .overlay a {
+        padding: 6px 12px;
+    }
+    /* ==========banner part end ========= */
+    /* =========about part start ====== */
+    #about_part {
+        padding: 34px 0;
+    }
+    #about_part p {
+        text-align: center;
+    }
+    #about_part h6 {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    #about_part .shape {
+        height: 250px;
+        width: 297px;
+    }
+    #about_part .left_img {
+        height: 250px;
+        width: 280px;
+    }
+    /* =========about part end ====== */
+    /* ==========service part start ========= */
+    #service_part .prevarrow {
+        left: 35%;
+    }
+    #service_part .nextarrow {
+        right: 35%;
+    }
+    /* =========portfolio part start ======== */
+    #portfolio_part {
+        margin: 47px 0;
+    }
+    /* =========portfolio part end ======== */
+    /* ==========service part end ========= */
+    /* ========team part start ======= */
+    #team_part .overlay {
+        opacity: 1;
+        visibility: visible;
+    }
+    #team_part {
+        margin-bottom: 44px;
+    }
+    /* ========team part end ======= */
+    /* =======testimonial part start ======== */
+    #testimonial_part .prevarrow {
+        left: 35%;
+    }
+    #testimonial_part .nextarrow {
+        right: 35%;
+    }
+    /* =======testimonial part end ======== */
+    /* =========footer part start ======== */
+    .footer_cmn_heading {
+        margin-bottom: 14px;
+        margin-top: 21px;
+        text-align: center;
+    }
+    #footer_part .item_4 .img .overlay {
+        transform: scale(1);
+    }
+    #footer_part .item_3 {
+        justify-content: space-around;
+        margin: 0 20px;
+    }
+    /* =========footer part end ======== */
+}
